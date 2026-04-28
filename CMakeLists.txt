@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 4.2)
+project(Grupo_5_TB1_Algoritmos_y_estructura_de_datos_)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Grupo_5_TB1_Algoritmos_y_estructura_de_datos_ main.cpp)
